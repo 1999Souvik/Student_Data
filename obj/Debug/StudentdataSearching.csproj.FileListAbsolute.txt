@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\bin\Debug\StudentdataSearching.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\bin\Debug\StudentdataSearching.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\bin\Debug\StudentdataSearching.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\obj\Debug\StudentdataSearching.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\obj\Debug\StudentdataSearching.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\obj\Debug\StudentdataSearching.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StudentdataSearching\obj\Debug\StudentdataSearching.pdb

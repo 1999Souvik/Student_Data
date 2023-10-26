@@ -1,0 +1,3 @@
+Khushal,22,Class A
+Bimal,37,Class B
+Raja,52,Class C
